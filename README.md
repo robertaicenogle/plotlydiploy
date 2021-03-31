@@ -1,4 +1,4 @@
-![](Resources/Bellytitle.png)
+![](Resources/Bellytitle.PNG)
 
 # plotlydiploy
 
@@ -9,18 +9,18 @@ Check out the website: https://robertaicenogle.github.io/plotlydiploy/
 
 ## To get started, select an ID:
 
-![](Resources/BellyID.png)
+![](Resources/BellyID.PNG)
 
 
 ### Updated ID Demographics
 
-![](Resources/BellyDemos.png)
+![](Resources/BellyDemos.PNG)
 
 
 ## A bar chart shows Top 10 OTUs for each ID:
 
-![](Resources/BellyTop10.png)
+![](Resources/BellyTop10.PNG)
 
 
 ## The gauge shows washes per week:
-![](Resources/BellyGauge.png)
+![](Resources/BellyGauge.PNG)
